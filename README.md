@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Paulo Abreu!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=👋+Hi,+I’m+Paulo+Abreu!;Welcome!+:%29)](https://git.io/typing-svg)
 
 💻 Software Engineer and Master’s Student in Software Engineering at **ISEP**.  
 🚀 Passionate about **Web Development**, **Software Architecture**, and **Scalable Solutions**.  
