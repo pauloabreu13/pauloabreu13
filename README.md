@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m Paulo Abreu!
 
-<!--
-**pauloabreu13/pauloabreu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer and Master’s Student in Software Engineering at **ISEP**.  
+🚀 Passionate about **Web Development**, **Software Architecture**, and **Scalable Solutions**.  
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🛠 Skilled in **Java**, **Spring Boot**, **Node.js**, and **MongoDB**.  
+- 🧩 Enthusiastic about **Software Design** and **Smart Solutions**.  
+- 📖 Always learning something new.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 📈 Stats
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloAbreu&show_icons=true&theme=dark)
+
