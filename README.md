@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=👋+Hi,+I’m+Paulo+Abreu!;💻+I'm+Software+Engineer;📚+I’m+Master’s+Student+in+Software+Engineering+at+ISEP;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=👋+Hi,+I’m+Paulo+Abreu!;💻+I'm+Software+Engineer;📚+I’m+Master’s+Student+in+Software+Engineering;Welcome!+:%29)](https://git.io/typing-svg)
 
 
 ## 🌟 About Me
